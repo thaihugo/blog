@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Minimalisme on Le Blog de Hugo</title>
+    <link>http://thaihugo.github.io/blog/categories/minimalisme/index.xml</link>
+    <description>Recent content in Minimalisme on Le Blog de Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <atom:link href="http://thaihugo.github.io/blog/categories/minimalisme/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Un blog minimal</title>
+      <link>http://thaihugo.github.io/blog/2017/02/un-blog-minimal/</link>
+      <pubDate>Sat, 25 Feb 2017 02:46:47 +0000</pubDate>
+      
+      <guid>http://thaihugo.github.io/blog/2017/02/un-blog-minimal/</guid>
+      <description>&lt;p&gt;Enfin,
+voici le &lt;strong&gt;premier&lt;/strong&gt; post du blog&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
